@@ -24,6 +24,8 @@ Grabs a GIF from the response data and appends the GIF to the page. If you submi
 
 Added a button next to the form which, when clicked, will remove all GIFs from the page.
 
+
+### Screenshot of Application
 ![Image of the application](https://github.com/crwirth/GIPHYSearchEngine/blob/master/Screen%20Shot%202020-02-10%20at%2012.01.07%20PM.png)
 
 
